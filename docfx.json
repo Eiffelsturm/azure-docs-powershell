@@ -115,7 +115,7 @@
                 "azurermps-*/**/*.md": "azure-powershell"
             },
             "enable_powershell_try_it" : {
-                "azuresmps-*/**.*.md": true,
+                "azurestackps-*/**/*.md": true,
                 "azuresmps-*/**/*.md": true,
                 "azurermps-*/**/*.md": true
             }
