@@ -113,6 +113,11 @@
                 "azurestackps-*/**/*.md": "azure-stack",
                 "azuresmps-*/**/*.md": "azure-asm",
                 "azurermps-*/**/*.md": "azure-powershell"
+            },
+            "enable_powershell_try_it" : {
+                "azuresmps-*/**.*.md": true,
+                "azuresmps-*/**/*.md": true,
+                "azurermps-*/**/*.md": true
             }
         },
         "globalMetadata": {
