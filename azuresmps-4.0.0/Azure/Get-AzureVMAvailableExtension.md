@@ -40,7 +40,7 @@ The **Get-AzureVMAvailableExtension** cmdlet gets information for the latest ava
 ### Example 1: Get information for the latest available extensions
 ```
 PS C:\> Get-AzureVMAvailableExtension
-          Publisher                  : Contoso.Compute
+          Publisher                  : Microsoft.Compute
           ExtensionName              : VMAccessAgent
           Version                    : 1.0
           PublicConfigurationSchema  : <?xml version="1.0" encoding="utf-8"?>
